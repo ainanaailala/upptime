@@ -1,6 +1,6 @@
 # Change these first
-owner: upptime # https://github.com/ainanaailala/upptime
-repo: upptime # upptime
+owner: ainanaailala # Your GitHub username
+repo: upptime # Your Github repository name
 
 sites:
   - name: drpy-replit
@@ -10,10 +10,7 @@ assignees:
   - kc1awv
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  upptime #
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
